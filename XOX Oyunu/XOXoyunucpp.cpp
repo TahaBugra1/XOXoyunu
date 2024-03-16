@@ -113,7 +113,7 @@ int main() {
 	tahta();
 
 	if (i == 1)
-		cout << " ==> \aOyuncu" << --oyuncu << " kazandý";
+		cout << " ==> \aOyuncu " << --oyuncu << " kazandý";
 	else
 		cout << " ==> \aOyun Berabere Bitti";
 	cin.ignore();//Kullanýcý hatalý giris yaparsa tekrardan giris yapmasýný saglýyor
