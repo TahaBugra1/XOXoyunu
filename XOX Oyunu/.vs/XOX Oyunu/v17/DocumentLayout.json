@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\XOX Oyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19116A5A-6E86-43DF-89B8-4E6A5CB04CD1}|XOX Oyunu.vcxproj|C:\\Users\\Taha Bu\u011Fra\\source\\repos\\XOX Oyunu\\XOXoyunucpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19116A5A-6E86-43DF-89B8-4E6A5CB04CD1}|XOX Oyunu.vcxproj|solutionrelative:XOXoyunucpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XOXoyunucpp.cpp",
+              "DocumentMoniker": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\XOX Oyunu\\XOXoyunucpp.cpp",
+              "RelativeDocumentMoniker": "XOXoyunucpp.cpp",
+              "ToolTip": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\XOX Oyunu\\XOXoyunucpp.cpp",
+              "RelativeToolTip": "XOXoyunucpp.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T22:58:46.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
